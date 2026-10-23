@@ -7,7 +7,7 @@
 
 **https://TU-SITIO.netlify.app** ← *(reemplazar por el enlace real después de publicar)*
 
-**Repositorio de comentarios (Utterances):** https://github.com/USUARIO/blog-comentarios ← *(reemplazar)*
+**Repositorio de comentarios (Utterances):** https://github.com/natillaaaaa/blog-comentario ← *(reemplazar)*
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Punto de la tarea | Cómo se resolvió |
 |---|---|
-| 1. Repositorio público para comentarios con Utterances | Repositorio `USUARIO/blog-comentarios` (público) con la app [Utterances](https://github.com/apps/utterances) instalada. |
+| 1. Repositorio público para comentarios con Utterances | Repositorio `natillaaaaa/blog-comentario` (público) con la app [Utterances](https://github.com/apps/utterances) instalada. |
 | 2. Comentarios en todas las páginas de contenido del blog | Componente `app/components/CommentsUtterances.vue` incluido en `app/pages/blog/[...slug].vue`, la plantilla que despliega **cada** artículo. Cada artículo usa su propio *issue* (hilo). |
 | Verificar que cada blog muestra su propio hilo | Cada artículo tiene enlaces **← Anterior / Siguiente →**; al navegar, el widget se recarga con el término del nuevo artículo (ver sección *Verificación*). |
 | 3. Publicar el sitio | Netlify, como sitio estático (`npm run generate` → carpeta `dist`). Configuración en `netlify.toml`. |
@@ -48,7 +48,7 @@
 
 ### 2. Poner el nombre del repositorio en el proyecto
 
-Reemplazar `USUARIO/blog-comentarios` por `su-usuario-de-github/blog-comentarios` en:
+Reemplazar `natillaaaaa/blog-comentario` por `su-usuario-de-github/blog-comentarios` en:
 
 - `nuxt.config.ts` → `runtimeConfig.public.utterancesRepo`
 - `netlify.toml` → `NUXT_PUBLIC_UTTERANCES_REPO`
@@ -92,7 +92,7 @@ npx serve dist
 2. Bajar hasta **Comentarios**, iniciar sesión con GitHub y escribir un comentario de prueba.
 3. Pulsar **Siguiente →** (*Voces personales*): el hilo aparece vacío, porque es otro *issue*. Comentar algo distinto.
 4. Volver con **← Anterior**: aparece solo el primer comentario.
-5. En `https://github.com/USUARIO/blog-comentarios/issues` se ve un *issue* por artículo comentado, titulado con su ruta (`blog/mezcla-editorial`, `blog/voces-personales`, …) y con la etiqueta `comments`.
+5. En `https://github.com/natillaaaaa/blog-comentario/issues` se ve un *issue* por artículo comentado, titulado con su ruta (`blog/mezcla-editorial`, `blog/voces-personales`, …) y con la etiqueta `comments`.
 
 Prueba automatizada realizada antes de la entrega (navegador sin interfaz, recorriendo los 6 artículos con los botones Anterior/Siguiente): en cada página se insertó **un solo** widget, con el término correcto:
 

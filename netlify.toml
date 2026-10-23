@@ -5,4 +5,4 @@
 [build.environment]
   NODE_VERSION = "22"
   # Cambie esto por su repositorio de comentarios (usuario/repositorio)
-  NUXT_PUBLIC_UTTERANCES_REPO = "USUARIO/blog-comentarios"
+  NUXT_PUBLIC_UTTERANCES_REPO = "natillaaaaa/blog-comentario"

@@ -24,7 +24,7 @@ export default defineNuxtConfig({
   // (por ejemplo en Netlify: Site configuration > Environment variables).
   runtimeConfig: {
     public: {
-      utterancesRepo: 'USUARIO/blog-comentarios'
+      utterancesRepo: 'natillaaaaa/blog-comentario'
     }
   },
 
