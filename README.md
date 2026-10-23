@@ -1,7 +1,7 @@
 # Tarea 5 — Comentarios con Utterances en el blog (Nuxt 4 + Nuxt Content)
 
 **Curso:** EIF-511 Arquitectura de Información — Sesión 12: Contenido Social
-**Estudiante:** Camilo Redondo
+**Estudiante:** Nathali Chacon
 
 ## 🔗 Sitio publicado
 
