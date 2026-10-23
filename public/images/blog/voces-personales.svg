@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Voces personales">
+<rect width="1280" height="720" fill="#d6f2ee"/>
+<circle cx="1180" cy="640" r="260" fill="#0f766e" opacity=".08"/>
+<text x="80" y="300" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="30" font-weight="600" fill="#0f766e" letter-spacing="4">CONTENIDO SOCIAL</text>
+<foreignObject x="80" y="320" width="600" height="300"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Georgia,serif;font-size:64px;line-height:1.1;color:#1f2328;font-weight:700">Voces personales</div></foreignObject>
+<rect x="760" y="140" width="300" height="120" rx="28" fill="#0f766e"/><path d="M800 260 l0 50 l50 -50z" fill="#0f766e"/><rect x="860" y="300" width="300" height="120" rx="28" fill="#334155" opacity=".7"/><path d="M1120 420 l0 50 l-50 -50z" fill="#334155" opacity=".7"/><circle cx="810" cy="200" r="22" fill="#fff" opacity=".9"/><rect x="850" y="185" width="180" height="12" rx="6" fill="#fff" opacity=".8"/><rect x="850" y="208" width="120" height="12" rx="6" fill="#fff" opacity=".6"/>
+</svg>

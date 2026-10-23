@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Iniciadores de conversación">
+<rect width="1280" height="720" fill="#ebe2fd"/>
+<circle cx="1180" cy="640" r="260" fill="#7c3aed" opacity=".08"/>
+<text x="80" y="300" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="30" font-weight="600" fill="#7c3aed" letter-spacing="4">CONTENIDO SOCIAL</text>
+<foreignObject x="80" y="320" width="600" height="300"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Georgia,serif;font-size:64px;line-height:1.1;color:#1f2328;font-weight:700">Iniciadores de conversación</div></foreignObject>
+<circle cx="950" cy="290" r="170" fill="#7c3aed"/><text x="950" y="360" font-family="Georgia,serif" font-size="220" font-weight="700" fill="#fff" text-anchor="middle">?</text><circle cx="1140" cy="140" r="34" fill="#334155" opacity=".6"/><circle cx="780" cy="470" r="24" fill="#334155" opacity=".5"/>
+</svg>

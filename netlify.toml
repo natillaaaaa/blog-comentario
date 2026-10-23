@@ -1,0 +1,8 @@
+[build]
+  command = "npm run generate"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Cambie esto por su repositorio de comentarios (usuario/repositorio)
+  NUXT_PUBLIC_UTTERANCES_REPO = "USUARIO/blog-comentarios"

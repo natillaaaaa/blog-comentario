@@ -1,0 +1,19 @@
+{
+  "name": "tarea5-blog-comentarios",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3.7.0",
+    "better-sqlite3": "^12.2.0",
+    "nuxt": "^4.1.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0"
+  }
+}
